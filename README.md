@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0875-koko-eating-bananas) |
+| [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
