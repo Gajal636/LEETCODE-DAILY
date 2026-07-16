@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -72,13 +73,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
