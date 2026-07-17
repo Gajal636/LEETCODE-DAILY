@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 ## Stack
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
