@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
