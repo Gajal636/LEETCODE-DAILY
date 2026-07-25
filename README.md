@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0875-koko-eating-bananas) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0015-3sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
+| [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
