@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
