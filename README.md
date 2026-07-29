@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
+| [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
+| [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0090-subsets-ii) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
