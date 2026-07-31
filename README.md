@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
