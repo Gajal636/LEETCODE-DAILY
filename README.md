@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 ## Breadth-First Search
 |  |
 | ------- |
