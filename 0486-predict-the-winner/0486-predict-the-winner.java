@@ -6,10 +6,10 @@ class Solution {
             return dp[i][j];
         }
 
-        int playerOne=nums[i]-solve(nums,i+1,j,dp);
-        int playerTwo=nums[j]-solve(nums,i,j-1,dp);
+        int choosingFirst=nums[i]-solve(nums,i+1,j,dp);
+        int choosingSecond=nums[j]-solve(nums,i,j-1,dp);
 
-        return dp[i][j]=Math.max(playerOne,playerTwo);
+        return dp[i][j]=Math.max(choosingFirst,choosingSecond);
     }
     public boolean predictTheWinner(int[] nums) {
         int n=nums.length;
