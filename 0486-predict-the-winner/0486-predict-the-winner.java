@@ -7,9 +7,9 @@ class Solution {
         }
 
         int choosingFirst=nums[i]-solve(nums,i+1,j,dp);
-        int choosingSecond=nums[j]-solve(nums,i,j-1,dp);
+        int choosingLast=nums[j]-solve(nums,i,j-1,dp);
 
-        return dp[i][j]=Math.max(choosingFirst,choosingSecond);
+        return dp[i][j]=Math.max(choosingFirst,choosingLast);
     }
     public boolean predictTheWinner(int[] nums) {
         int n=nums.length;
