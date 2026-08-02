@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Stack
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
