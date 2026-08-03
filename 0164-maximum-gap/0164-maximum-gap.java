@@ -6,7 +6,10 @@ class Solution {
        Arrays.sort(nums);
        int maxGap=Integer.MIN_VALUE;
        for(int i=0;i<nums.length-1;i++){
-        maxGap=Math.max(maxGap,nums[i+1]-nums[i]);
+        if(maxGap<nums[i+1]-nums[i]){
+         maxGap=nums[i+1]-nums[i];
+           
+        }
        }
        return maxGap;
     }
