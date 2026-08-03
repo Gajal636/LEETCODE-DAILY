@@ -4,13 +4,13 @@ class Solution {
         return 0;
        }
        Arrays.sort(nums);
-       int diff=0;
+       int maxGap=Integer.MIN_VALUE;
        for(int i=0;i<nums.length-1;i++){
-        if(diff<nums[i+1]-nums[i]){
-         diff=nums[i+1]-nums[i];
+        if(maxGap<nums[i+1]-nums[i]){
+         maxGap=nums[i+1]-nums[i];
            
         }
        }
-       return diff;
+       return maxGap;
     }
 }
