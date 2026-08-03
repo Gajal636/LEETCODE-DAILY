@@ -1,18 +1,16 @@
 class Solution {
     public int maximumGap(int[] nums) {
-        if(nums.length<2){
-            return 0;
+       if(nums.length<=1){
+        return 0;
+       }
+       Arrays.sort(nums);
+       int diff=0;
+       for(int i=0;i<nums.length-1;i++){
+        if(diff<nums[i+1]-nums[i]){
+         diff=nums[i+1]-nums[i];
+           
         }
-        int i=0;
-        int maxGap=0;
-        Arrays.sort(nums);
-        for(int j=i+1;j<nums.length;j++){
-          int gap=nums[j]-nums[i];
-            if(gap>maxGap){
-                maxGap=gap;
-            }
-                i++;
-        }
-        return maxGap;
+       }
+       return diff;
     }
 }
