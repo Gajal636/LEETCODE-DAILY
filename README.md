@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
+| [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
+| [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
