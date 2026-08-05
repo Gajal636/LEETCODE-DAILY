@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
 | [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
