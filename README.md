@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
