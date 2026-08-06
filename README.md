@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
