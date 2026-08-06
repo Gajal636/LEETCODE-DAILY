@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
+| [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Stack
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
