@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
