@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
