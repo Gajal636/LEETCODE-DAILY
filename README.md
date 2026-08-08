@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
