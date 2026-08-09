@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
+| [0541-reverse-string-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
