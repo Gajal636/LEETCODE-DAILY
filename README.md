@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0414-third-maximum-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
