@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1991-find-the-middle-index-in-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
