@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 ## Breadth-First Search
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
