@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2485-find-the-pivot-integer) |
+| [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
