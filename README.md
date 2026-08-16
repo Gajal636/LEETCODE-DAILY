@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
 | ------- |
