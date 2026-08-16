@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0216-combination-sum-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
@@ -379,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0142-linked-list-cycle-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
