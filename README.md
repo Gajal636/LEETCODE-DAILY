@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1720-decode-xored-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
