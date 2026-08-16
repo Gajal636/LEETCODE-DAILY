@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0371-sum-of-two-integers) |
