@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1310-xor-queries-of-a-subarray) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
