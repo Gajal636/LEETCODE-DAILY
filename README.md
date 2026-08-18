@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
