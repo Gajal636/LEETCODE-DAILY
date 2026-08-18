@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
