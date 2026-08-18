@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1049-last-stone-weight-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1310-xor-queries-of-a-subarray) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1390-four-divisors](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1390-four-divisors](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
@@ -409,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
