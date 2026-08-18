@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
