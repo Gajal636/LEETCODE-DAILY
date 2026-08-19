@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
