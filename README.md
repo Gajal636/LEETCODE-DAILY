@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
