@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
