@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2540-minimum-common-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2390-removing-stars-from-a-string) |
