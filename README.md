@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1406-stone-game-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1512-number-of-good-pairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1720-decode-xored-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2390-removing-stars-from-a-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2390-removing-stars-from-a-string) |
