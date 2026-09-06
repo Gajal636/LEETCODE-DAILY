@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0152-maximum-product-subarray) |
