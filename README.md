@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0541-reverse-string-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1441-build-an-array-with-stack-operations) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0877-stone-game) |
