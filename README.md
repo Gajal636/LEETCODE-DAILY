@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0047-permutations-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0142-linked-list-cycle-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0070-climbing-stairs) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
@@ -522,5 +526,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
