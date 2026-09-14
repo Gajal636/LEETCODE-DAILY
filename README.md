@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0328-odd-even-linked-list) |
@@ -528,4 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
