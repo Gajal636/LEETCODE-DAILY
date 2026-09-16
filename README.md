@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0725-split-linked-list-in-parts) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2181-merge-nodes-in-between-zeros) |
