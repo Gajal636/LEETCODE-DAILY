@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0740-delete-and-earn](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0746-min-cost-climbing-stairs) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0622-design-circular-queue) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
