@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -540,14 +541,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
