@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3536-maximum-product-of-two-digits) |
