@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1991-find-the-middle-index-in-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2951-find-the-peaks) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/Gajal636/LEETCODE-DAILY/tree/master/3099-harshad-number) |
